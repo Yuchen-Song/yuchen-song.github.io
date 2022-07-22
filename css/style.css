@@ -1,8 +1,8 @@
 
 /* STYLE */
-@import url(../../Yuchen-Song/css/font-awesome.css) screen;
-@import url(../../Yuchen-Song/css/owl.carousel.css) screen;
-@import url(../../Yuchen-Song/css/animate.min.css) screen;
+@import url(font-awesome.css) screen;
+@import url(owl.carousel.css) screen;
+@import url(animate.min.css) screen;
 
 /* FONTS */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,600italic,700,800,400italic);
@@ -99,7 +99,7 @@ a.remove {
     margin: 10px;
     padding-left: 0 !important;
     text-indent: -9999px;
-    background: url(../../Yuchen-Song/css/images/remove.png) #01090C;
+	background: url(images/remove.png) #01090C;
     border-radius: 100px;
     border-style: solid;
     border-width: 1px
@@ -244,7 +244,7 @@ body{
 .cover-section {
     display: block;
     width: 100%;
-    background:#fff url(../../Yuchen-Song/images/bg.jpg) no-repeat;
+    background:#fff url(../images/bg.jpg) no-repeat;
     background-size: cover;
     position: relative;
     text-align: center;
@@ -1009,7 +1009,7 @@ skill before width = 0.95*score
     left: 10px;
     right: 10px;
     bottom: 10px;
-    background: #52e5ab url(../../Yuchen-Song/images/plus.png) no-repeat center;
+    background: #52e5ab url(../images/plus.png) no-repeat center;
     z-index: 999;
     border: 1px solid #9a9a9a;
     opacity: 0;
@@ -1123,7 +1123,7 @@ skill before width = 0.95*score
  */
 .contact-section {
     overflow-y: scroll;
-    background: #000000 url(../../Yuchen-Song/images/map-bg.png) no-repeat center;
+    background: #000000 url(../images/map-bg.png) no-repeat center;
     padding: 0 !important;
     position: relative;
 }
